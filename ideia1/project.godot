@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="Ideia 1"
-config/icon="res://icon.png"
+config/icon="res://timeofday/icon.png"
 
 [gui]
 
@@ -23,4 +23,4 @@ common/enable_pause_aware_picking=true
 
 [rendering]
 
-environment/default_environment="res://default_env.tres"
+environment/default_environment="res://timeofday/default_env.tres"
